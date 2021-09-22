@@ -1,0 +1,13 @@
+﻿  Hackathonv1.cpp
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(146,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(190,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(217,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(237,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(260,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(281,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leomu\source\repos\Hackathonv1\Hackathonv1\header.h(282,27): warning C4018: '<': signed/unsigned mismatch
+  Hackathonv1.vcxproj -> C:\Users\leomu\source\repos\Hackathonv1\Debug\Hackathonv1.exe
